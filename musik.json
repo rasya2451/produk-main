@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www.bensound.com/bensound-music/bensound-dubstep.mp3",
+    "title": "Rasya Vibes",
+    "artist": "Cyberlofi",
+    "album": "Lofi Night Ride",
+    "albumArt": "https://img12.pixhost.to/images/1542/585928310_ditss.jpg"
+  },
+  {
+    "url": "https://www.bensound.com/bensound-music/bensound-slowmotion.mp3",
+    "title": "Midnight Snow",
+    "artist": "Chillwinter",
+    "album": "Winter Chill",
+        "albumArt": "https://img12.pixhost.to/images/1542/585928310_ditss.jpg"
+  },
+  {
+    "url": "https://yourdomain.com/musikbaru.mp3",
+    "title": "Lagu Baru",
+    "artist": "Rasya",
+    "album": "Ganteng Beats",
+        "albumArt": "https://img12.pixhost.to/images/1542/585928310_ditss.jpg"
+  }
+]
